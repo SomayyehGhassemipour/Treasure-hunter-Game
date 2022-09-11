@@ -1,0 +1,65 @@
+.btn {
+  border: none;
+  background-color: rgb(80, 60, 209);
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 10px;
+  outline: none;
+  width: 100px;
+  height: 100px;
+}
+
+.btn:hover {
+  background-color: rgb(61, 43, 184);
+}
+
+.chose {
+  background-color: rgb(77, 75, 75);
+}
+
+.chose:hover {
+  background-color: rgb(61, 60, 60);
+}
+
+.cel-T {
+  background-color: rgb(237, 5, 5);
+  cursor: auto;
+}
+
+.cel-3 {
+  background-color: rgb(241, 75, 4);
+  cursor: auto;
+}
+
+.cel-2 {
+  background-color: rgb(248, 112, 22);
+  cursor: auto;
+}
+
+.cel-1 {
+  background-color: rgb(247, 189, 150);
+  cursor: auto;
+}
+
+
+.cel-T:hover {
+  background-color: rgb(237, 5, 5);
+  cursor: auto;
+}
+
+.cel-3:hover {
+  background-color: rgb(241, 75, 4);
+  cursor: auto;
+}
+
+.cel-2:hover {
+  background-color: rgb(248, 112, 22);
+  cursor: auto;
+}
+
+.cel-1:hover {
+  background-color: rgb(247, 189, 150);
+  cursor: auto;
+}
