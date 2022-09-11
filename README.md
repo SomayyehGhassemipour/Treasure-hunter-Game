@@ -9,7 +9,7 @@
 
 ## General info
 
-This is a web browser game that user should find 3  treasures during the game. Every turn user can reveal 3 position in the board map and they will show the proximity to the nearest treasure. At the end leadboard will show.
+This is a web browser game that user should find 3  treasures during the game. Every turn user can reveal 3 positions in the board map and they will show the proximity to the nearest treasure. At the end leadboard will be shown.
 
 ## Technologies
 
