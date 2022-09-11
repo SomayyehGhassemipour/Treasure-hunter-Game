@@ -1,4 +1,4 @@
-# Treasure-hunter-Game-
+# Treasure-hunter-Game
 
 ## Table of contents
 
