@@ -20,6 +20,7 @@ project is created with:
 - JavaScript
 - React js
 - Redux
+- Axios
 - NodeJs
 - Express
 
